@@ -12,3 +12,5 @@ This code under continual development and updates will be posted here.
 On November 4, 2023, a new version of this code was uploaded (version 1.13g). Note that the original version remains and is referred to as version 1.07bg.
 
 The runscripts folder contains wrapper functions for calling the core code.
+
+On November 16, 2025, a new version (1.15g) was uploaded. This slightly modified version contains a new folder with alternate versions of listavg for carrying out specialized tasks.
